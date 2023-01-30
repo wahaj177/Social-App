@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756492159772",
+    "project_id": "socail-app-bae6e",
+    "storage_bucket": "socail-app-bae6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756492159772:android:132ce33f33a0c367c088d9",
+        "android_client_info": {
+          "package_name": "com.example.social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756492159772-u4s75l2k8dtb4qb4cgqi26tkeima6tg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkAV5wCVX9OSeaimlyHtOy6IBMUrruw_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756492159772-u4s75l2k8dtb4qb4cgqi26tkeima6tg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
